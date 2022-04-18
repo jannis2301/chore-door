@@ -1,6 +1,6 @@
 # **Chore Door**
 
-Chore Door is a single-page interactive game built with JavaScript
+Chore Door is a single-page interactive game built with JavaScript.
 This training project is prepared by [Codecademy](https://www.codecademy.com).
 
 ## Table of Contents
